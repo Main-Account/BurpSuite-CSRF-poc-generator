@@ -1,6 +1,4 @@
 # BurpSuite-CSRF-poc-generator
-
-# csrf-poc-creator
 A Burp Suite extension for CSRF proof of concepts
 
 
